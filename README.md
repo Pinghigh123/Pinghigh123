@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Pinghigh123
-- 👀 I’m interested in coding, badminton, stocks and more
-- 🌱 I’m currently learning intermediate Python, CSS, HTML, javascript, 
-- 💞️ I’m looking to collaborate on many coding projects
+- 👀 I’m interested in coding, badminton, money, stuff
+- 🌱 I’m currently learning intermediate Python, CSS, HTML, and javascript
+- 💞️ I’m looking to create many coding projects
 - 📫 How to reach me | my email -> haozhenli16@gmail.com
-- 😄 Pronouns: Male
 - ⚡ Fun fact: i might be cooked
 
 <!---
